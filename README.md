@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @Sabbirmadman
 - 👀 I’m interested in software developement 
-- 🌱 I’m currently learning django
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 I’m currently learning React
+- 📫 How to reach me ... : http://madmansabb.unaux.com/
 
 <!---
 Sabbirmadman/Sabbirmadman is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
