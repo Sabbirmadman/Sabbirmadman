@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Sabbirmadman
 - 👀 I’m interested in software developement 
-- 🌱 I’m currently learning React
+- 🌱 I’m currently working as a software developer
 - 📫 How to reach me ... : http://madmansabb.unaux.com/
 
 <!---
